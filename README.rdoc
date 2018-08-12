@@ -22,7 +22,7 @@ To apply Ancestry to any ActiveRecord model, follow these simple steps:
 3. Add ancestry to your model
    - Add to app/models/[model].rb: <b>has_ancestry</b>
 
-Your model is now a tree!
+Your model is now a tree! Yay!!!
 
 = Using acts_as_tree instead of has_ancestry
 
